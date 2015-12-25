@@ -1,0 +1,16 @@
+label {
+	display: block;
+	width: 80px;
+	float: left;
+}
+span {
+	display: none;
+}
+div {
+	overflow: auto;
+	clear: both;
+	padding-top: 5px;
+}
+#otherCount {
+	display: none;
+}
